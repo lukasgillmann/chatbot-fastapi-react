@@ -4,7 +4,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+To run backend server, run the following command
+
+### `fastapi dev main.py`
+
+This command will run server on 8000 port and frontend can send requests there.
+
+
+For Frontend, in the project directory, you can run:
 
 ### `npm start`
 
